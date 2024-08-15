@@ -1,10 +1,41 @@
-- 👋 Hi, I’m kavinda Perera
-- 👀 I’m interested in IOT ...
-- 🌱 I’m currently learning  ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello, I'm Kavinda Perera
 
-<!---
-k4v1nd4-p3r3r4/k4v1nd4-p3r3r4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Passionate Developer | IoT Enthusiast | Continuous Learner**
+
+---
+
+## 🌟 About Me
+
+I'm a tech enthusiast with a strong passion for developing innovative solutions, especially in the realm of IoT. My journey in the world of coding started with a curiosity to understand how things work, and it has evolved into a relentless pursuit of crafting efficient and scalable applications.
+
+- 🔭 I’m currently working on various IoT projects and web applications.
+- 🌱 I’m expanding my knowledge in Laravel and advanced Java frameworks.
+- 💬 Ask me about anything related to **JavaScript, Java, Python, React, PHP, Laravel, Spring Boot**, or **IoT**.
+
+---
+
+## 💡 My Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** PHP, Laravel, Spring Boot
+- **Programming Languages:** Java, Python
+- **IoT:** Arduino,ESP32
+
+---
+
+## 🤝 Collaboration
+
+I’m looking to collaborate on open-source projects that intersect with IoT, web development, or anything that pushes the boundaries of technology. If you’re working on something exciting, let’s connect and create something amazing together!
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](www.linkedin.com/in/kavinda-perera-07b835283)
+- [Email](kavinda.perera.2000.10.28@gmail.com)
+
+Feel free to reach out if you'd like to discuss a project, share ideas, or just talk about the latest in tech!
+
+---
+
+✨ "The best way to predict the future is to invent it." — Alan Kay
