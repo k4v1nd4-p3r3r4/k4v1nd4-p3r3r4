@@ -31,6 +31,16 @@ I'm a tech enthusiast with a strong passion for developing innovative solutions,
 ![Laravel](https://img.shields.io/badge/Laravel-Advanced-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-yellow)
 
+```plaintext
+HTML        ████████████░░░░  80%
+CSS         ████████░░░░░░░░  50%
+JavaScript  ██████████░░░░░░  75%
+Java        ████████████░░░░  75%
+Python      ██████████░░░░░░  75%
+React       ████████░░░░░░░░  50%
+PHP         ████████░░░░░░░░  60%
+Laravel     ████████░░░░░░░░  60%
+Spring Boot ███████░░░░░░░░░  40%
 ---
 
 ## 🤝 Collaboration
