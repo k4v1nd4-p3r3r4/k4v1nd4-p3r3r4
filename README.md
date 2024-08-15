@@ -18,7 +18,7 @@ I'm a tech enthusiast with a strong passion for developing innovative solutions,
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** PHP, Laravel, Spring Boot
-- **Programming Languages:** Java, Python
+- **Programming Languages:** Java, Python, C, C++
 - **IoT:** Arduino,ESP32
 
 ---
