@@ -19,7 +19,7 @@ I'm a tech enthusiast with a strong passion for developing innovative solutions,
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** PHP, Laravel, Spring Boot
 - **Programming Languages:** Java, Python, C, C++
-- **IoT:** Arduino,ESP32
+- **IoT:** Arduino, ESP32
   
 ![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
@@ -38,24 +38,4 @@ JavaScript  ██████████░░░░░░  75%
 Java        ████████████░░░░  75%
 Python      ██████████░░░░░░  75%
 React       ████████░░░░░░░░  50%
-PHP         ████████░░░░░░░░  60%
-Laravel     ████████░░░░░░░░  60%
-Spring Boot ███████░░░░░░░░░  40%
----
-
-## 🤝 Collaboration
-
-I’m looking to collaborate on open-source projects that intersect with IoT, web development, or anything that pushes the boundaries of technology. If you’re working on something exciting, let’s connect and create something amazing together!
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](www.linkedin.com/in/kavinda-perera-07b835283)
-- [Email](kavinda.perera.2000.10.28@gmail.com)
-
-Feel free to reach out if you'd like to discuss a project, share ideas, or just talk about the latest in tech!
-
----
-
-✨ "The best way to predict the future is to invent it." — Alan Kay
+PHP
