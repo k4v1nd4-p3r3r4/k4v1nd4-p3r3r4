@@ -9,7 +9,7 @@
 I'm a tech enthusiast with a strong passion for developing innovative solutions, especially in the realm of IoT. My journey in the world of coding started with a curiosity to understand how things work, and it has evolved into a relentless pursuit of crafting efficient and scalable applications.
 
 - 🔭 I’m currently working on various IoT projects and web applications.
-- 🌱 I’m expanding my knowledge in [specific IoT technology you're learning] and advanced Java frameworks.
+- 🌱 I’m expanding my knowledge in Laravel, React and advanced Java frameworks.
 - 💬 Ask me about anything related to **JavaScript, Java, Python, React, PHP, Laravel, Spring Boot**, or **IoT**.
 
 ---
