@@ -20,6 +20,16 @@ I'm a tech enthusiast with a strong passion for developing innovative solutions,
 - **Backend:** PHP, Laravel, Spring Boot
 - **Programming Languages:** Java, Python, C, C++
 - **IoT:** Arduino,ESP32
+  
+![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-blue)
+![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![React](https://img.shields.io/badge/React-Intermediate-yellow)
+![PHP](https://img.shields.io/badge/PHP-Advanced-blue)
+![Laravel](https://img.shields.io/badge/Laravel-Advanced-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-yellow)
 
 ---
 
