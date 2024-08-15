@@ -9,7 +9,7 @@
 I'm a tech enthusiast with a strong passion for developing innovative solutions, especially in the realm of IoT. My journey in the world of coding started with a curiosity to understand how things work, and it has evolved into a relentless pursuit of crafting efficient and scalable applications.
 
 - 🔭 I’m currently working on various IoT projects and web applications.
-- 🌱 I’m expanding my knowledge in Laravel and advanced Java frameworks.
+- 🌱 I’m expanding my knowledge in [specific IoT technology you're learning] and advanced Java frameworks.
 - 💬 Ask me about anything related to **JavaScript, Java, Python, React, PHP, Laravel, Spring Boot**, or **IoT**.
 
 ---
@@ -18,27 +18,8 @@ I'm a tech enthusiast with a strong passion for developing innovative solutions,
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** PHP, Laravel, Spring Boot
-- **Programming Languages:** Java, Python, C, C++
-- **IoT:** Arduino, ESP32
-  
-![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-blue)
-![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![React](https://img.shields.io/badge/React-Intermediate-yellow)
-![PHP](https://img.shields.io/badge/PHP-Advanced-blue)
-![Laravel](https://img.shields.io/badge/Laravel-Advanced-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-yellow)
-
-```plaintext
-HTML        ████████████░░░░  80%
-CSS         ████████░░░░░░░░  50%
-JavaScript  ██████████░░░░░░  75%
-Java        ████████████░░░░  75%
-Python      ██████████░░░░░░  75%
-React       ████████░░░░░░░░  50%
-PHP
+- **Programming Languages:** Java, Python
+- **IoT:** Ardoino, ESP32, Node MCU
 
 ---
 
@@ -58,4 +39,3 @@ Feel free to reach out if you'd like to discuss a project, share ideas, or just 
 ---
 
 ✨ "The best way to predict the future is to invent it." — Alan Kay
-fix error
