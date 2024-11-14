@@ -17,7 +17,7 @@ I'm a tech enthusiast with a strong passion for developing innovative solutions,
 ## 💡 My Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** PHP, Laravel, Spring Boot
+- **Backend:** PHP, Laravel, Spring Boot, Node JS
 - **Programming Languages:** Java, Python
 - **IoT:** Ardoino, ESP32, Node MCU
 
